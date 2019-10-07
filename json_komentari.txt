@@ -1,0 +1,5 @@
+Nije instalirana najnovija verzija webpacka
+Najnovija verzija je 4.x.x
+
+react dep isto nije najnovija verzija
+Najnovija verzija je 16.10.x i 5.x.x za react-router-dom
